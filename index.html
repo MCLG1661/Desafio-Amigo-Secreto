@@ -21,21 +21,26 @@
             <h2 class="section-title">Digite o nome dos seus amigos</h2>
             <div class="input-wrapper">
                 <input type="text" id="amigo" class="input-name" placeholder="Digite um nome">
+                <select id="generoAmigo" class="gender-select" aria-label="Selecione o gênero">
+                    <option value="masculino">Amigo</option>
+                    <option value="feminino">Amiga</option>
+                </select>
                 <button class="button-add" onclick="adicionarAmigo()">Adicionar</button>
+                <button class="button-clear" onclick="limparLista()">Limpar Lista</button>
             </div>
            
             <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
-            <ul id="resultado" class="result-list" aria-live="polite"></ul>
+            <div id="resultado" class="result-container" aria-live="polite"></div>
 
             <div class="button-container">
                 <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
                     <img src="assets/play_circle_outline.png" alt="Ícone para sortear">
-                    Sortear amigo
+                    Sortear
                 </button>
             </div>
         </section>
     </main>
 
-    <script src="app.js" defer></script>
+    <script src="app.js"></script>
 </body>
 </html>
