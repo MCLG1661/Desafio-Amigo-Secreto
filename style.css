@@ -160,3 +160,197 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+
+/* Estilo para o seletor de gênero */
+.gender-select {
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    cursor: pointer;
+}
+
+/* Ajuste no container de input para acomodar o novo elemento */
+.input-wrapper {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+/* Estilo para o container de resultado */
+.result-container {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Estilo para o botão Limpar Lista */
+.button-clear {
+    padding: 12px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: #f44336;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button-clear:hover {
+    background-color: #d32f2f;
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+    .input-wrapper {
+        flex-direction: column;
+    }
+    
+    .input-name, 
+    .gender-select, 
+    .button-add,
+    .button-clear {
+        width: 100%;
+    }
+}
+
+/* Estilos existentes (mantidos da versão original) */
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+.header-banner {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main-title {
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.input-section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.section-title {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.input-name {
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    flex-grow: 1;
+    font-family: 'Inter', sans-serif;
+}
+
+.button-add {
+    padding: 12px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button-add:hover {
+    background-color: #388E3C;
+}
+
+.name-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.name-list li {
+    padding: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button-draw {
+    padding: 15px 30px;
+    border-radius: 8px;
+    border: none;
+    background-color: #2196F3;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background-color 0.3s;
+}
+
+.button-draw:hover {
+    background-color: #1976D2;
+}
+
+.button-draw img {
+    width: 20px;
+    height: 20px;
+}
+
+.result-name {
+    font-size: 1.5rem;
+    color: #2196F3;
+    margin-top: 10px;
+}
+/* Adicione estes novos estilos */
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.remove-btn {
+    background: none;
+    border: none;
+    color: #f44336;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0 8px;
+    border-radius: 50%;
+    transition: background-color 0.3s;
+}
+
+.remove-btn:hover {
+    background-color: #ffebee;
+}
+
+.remove-btn:focus {
+    outline: none;
+    background-color: #ffcdd2;
+}
