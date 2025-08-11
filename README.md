@@ -18,8 +18,8 @@
 
 ## ✨ Funcionalidades
 - Adicionar participantes com nome e gênero
-- Remover itens individualmente (botão ×)
-- Limpar toda a lista de uma vez
+- Remover itens individualmente (botão × ao lado de cada nome)
+- Limpar toda a lista de uma vez 
 - Sortear amigo secreto aleatoriamente
 - Design responsivo para mobile e desktop
 - Confirmações antes de ações destrutivas
