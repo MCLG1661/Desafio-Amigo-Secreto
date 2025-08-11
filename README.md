@@ -8,12 +8,12 @@
 
 ```
 /projeto-amigo-secreto/
-│── index.html
-│── style.css
-│── app.js
-└── assets/
-    ├── amigo-secreto.png
-    └── play_circle_outline.png
+│── index.html                # Página principal
+│── style.css                 # Estilos do projeto
+│── app.js                    # Lógica do sorteio
+└── assets/                   # Pasta de imagens
+    ├── amigo-secreto.png     # Ilustração do amigo secreto
+    └── play_circle_outline.png  # Ícone do botão sortear
 ```
 
 ## ✨ Funcionalidades
