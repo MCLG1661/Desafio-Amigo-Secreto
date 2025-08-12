@@ -7,13 +7,13 @@
 ## 📂 Estrutura de Arquivos
 
 ```
-/projeto-amigo-secreto/
-│── index.html                # Página principal
-│── style.css                 # Estilos do projeto
-│── app.js                    # Lógica do sorteio
-└── assets/                   # Pasta de imagens
-    ├── amigo-secreto.png     # Ilustração do amigo secreto
-    └── play_circle_outline.png  # Ícone do botão sortear
+/Desafio-Amigo-Secreto/
+├── assets/
+│   ├── amigo-secreto.png    ← Imagem principal
+│   └── play_circle_outline.png  ← Ícone do botão
+├── index.html
+├── style.css
+└── app.js
 ```
 
 ## ✨ Funcionalidades
