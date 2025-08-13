@@ -9,7 +9,7 @@
 ```
 /Desafio-Amigo-Secreto/
 ├── assets/
-│   ├── amigo-secreto.png    ← Imagem principal
+│   ├── amigo-secreto  ← Imagem principal
 │   └── play_circle_outline.png  ← Ícone do botão
 ├── index.html
 ├── style.css
