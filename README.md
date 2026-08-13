@@ -196,11 +196,9 @@ O projeto teve como foco a aplicação prática de fundamentos de **lógica de p
 
 Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
 
-[![GitHub](https://img.shields.io/badge/GitHub-MCLG1661-181717?logo=github&logoColor=white)](https://github.com/MCLG1661)
+LinkedIn : https://www.linkedin.com/in/marcusguedes/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus_Guedes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusguedes/)
-
----
+GitHub : https://github.com/MCLG1661
 
 
 
