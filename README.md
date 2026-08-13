@@ -29,18 +29,6 @@ Acessar Aplicação (https://desafio-amigo-secreto-ten-chi.vercel.app/)
 
 ---
 
-## 🖥️ Preview
-
-<p align="center">
-  <img src="images/amigo-secreto-preview.png"
-       alt="Interface da aplicação Amigo Secreto"
-       width="800">
-</p>
-
-> Caso a screenshot ainda não esteja no repositório, adicione a imagem na pasta `images/` ou remova temporariamente esta seção.
-
----
-
 ## 🎯 Objetivo
 
 O objetivo do projeto é desenvolver uma aplicação Front-end capaz de gerenciar participantes e realizar um sorteio aleatório, utilizando tecnologias fundamentais da Web.
@@ -51,7 +39,7 @@ Além da funcionalidade principal, o projeto foi utilizado para praticar conceit
 
 ## ✨ Funcionalidades
 
-A aplicação permite:
+A aplicação permite :
 
 - ➕ Adicionar participantes
 - 📋 Visualizar os nomes cadastrados
@@ -65,20 +53,23 @@ A aplicação permite:
 
 ## 🛠️ Tecnologias
 
-| Tecnologia | Aplicação |
-|---|---|
-| **HTML5** | Estrutura da aplicação |
-| **CSS3** | Estilização e responsividade |
-| **JavaScript** | Lógica, interatividade e sorteio |
-| **Git** | Versionamento |
-| **GitHub** | Repositório e documentação |
-| **Vercel** | Publicação da aplicação |
+**HTML5** - Estrutura da aplicação
+
+**CSS3** - Estilização e responsividade
+
+**JavaScript** - Lógica, interatividade e sorteio
+
+**Git** - Versionamento
+
+**GitHub** - Repositório e documentação
+
+**Vercel** - Publicação da aplicação
 
 ---
 
 ## 🧠 Como Funciona
 
-O fluxo principal da aplicação é simples:
+O fluxo principal da aplicação é simples :
 
 ```text
 Usuário
@@ -102,19 +93,19 @@ A lógica de interação e sorteio é executada diretamente no navegador utiliza
 
 ## 🚀 Como Executar
 
-### 1. Clone o repositório
+1. Clone o repositório
 
 ```bash
 git clone https://github.com/MCLG1661/Desafio-Amigo-Secreto.git
 ```
 
-### 2. Entre no diretório
+2. Entre no diretório
 
 ```bash
 cd Desafio-Amigo-Secreto
 ```
 
-### 3. Execute a aplicação
+3. Execute a aplicação
 
 Abra o arquivo:
 
@@ -174,7 +165,7 @@ Desafio-Amigo-Secreto/
 
 ## 💡 Aprendizados
 
-O desenvolvimento deste projeto permitiu praticar conceitos fundamentais de desenvolvimento Front-end, incluindo:
+O desenvolvimento deste projeto permitiu praticar conceitos fundamentais de desenvolvimento Front-end, incluindo :
 
 - Lógica de programação
 - Funções em JavaScript
