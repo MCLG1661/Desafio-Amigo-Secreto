@@ -25,7 +25,7 @@ O desenvolvimento fez parte da minha trajetória no programa **Oracle Next Educa
 
 A aplicação está disponível online:
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Acessar_Aplicação-2ea44f)](COLOQUE-AQUI-O-LINK-DA-VERCEL)
+Acessar_Aplicação(https://desafio-amigo-secreto-ten-chi.vercel.app/)
 
 ---
 
