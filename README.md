@@ -51,6 +51,22 @@ A aplicação permite :
 
 ---
 
+## 📸 Demonstração
+
+### Participantes cadastrados
+
+A aplicação permite adicionar participantes dinamicamente antes da realização do sorteio.
+
+![Participantes cadastrados](images/participantes.png)
+
+### Resultado do sorteio
+
+Após o cadastro dos participantes, o sorteio é realizado diretamente no navegador utilizando JavaScript.
+
+![Resultado do sorteio](images/resultado-sorteio.png)
+
+---
+
 ## 🛠️ Tecnologias
 
 **HTML5** - Estrutura da aplicação
@@ -132,17 +148,22 @@ Também é possível utilizar uma extensão como **Live Server** durante o desen
 
 ## 📂 Estrutura do Projeto
 
+## 📂 Estrutura do Projeto
+
 ```text
 Desafio-Amigo-Secreto/
 │
+├── .github/
 ├── assets/
-│   └── ...
+├── images/
+│   ├── participantes.png
+│   └── resultado-sorteio.png
 │
+├── .nojekyll
 ├── index.html
 ├── style.css
 ├── app.js
 └── README.md
-```
 
 Caso seja adicionada a screenshot do projeto:
 
