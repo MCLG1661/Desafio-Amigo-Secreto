@@ -13,11 +13,11 @@
 ![ONE](https://img.shields.io/badge/Oracle-ONE-F80000?logo=oracle&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-Aplicação web desenvolvida para realizar **sorteios de Amigo Secreto** de maneira simples e interativa.
+Desenvolvida para realizar **sorteios de Amigo Secreto** de maneira simples e interativa.
 
 O projeto permite cadastrar participantes, gerenciar a lista de nomes e realizar o sorteio utilizando **JavaScript**, aplicando conceitos fundamentais de lógica de programação, manipulação do DOM e interação com o usuário.
 
-O desenvolvimento fez parte da minha trajetória no programa **Oracle Next Education (ONE) — G9 BR**.
+É o Trabalho Final da Tech Foundation 1, segunda Fase do ONE G9 BR e fez parte da minha trajetória no programa **Oracle Next Education (ONE) — G9 BR**.
 
 ---
 
