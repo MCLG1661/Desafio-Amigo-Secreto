@@ -19,6 +19,10 @@ O projeto permite cadastrar participantes, gerenciar a lista de nomes e realizar
 
 É o Trabalho Final da Tech Foundation 1, segunda Fase do ONE G9 BR e fez parte da minha trajetória no programa **Oracle Next Education (ONE) — G9 BR**.
 
+## English overview
+
+A JavaScript web app for managing a participant list and drawing a name for Secret Santa. Built for Oracle Next Education (ONE) G9 BR, it demonstrates programming logic, DOM manipulation, and interactive input handling.
+
 ---
 
 ## 🌐 Live Demo
